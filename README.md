@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mosharrafhussayn
 - 👀 I’m interested in ...Web3
 - 🌱 I’m currently learning ...Full Stack Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
